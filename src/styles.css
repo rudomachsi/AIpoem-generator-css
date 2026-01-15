@@ -42,10 +42,10 @@ form {
     margin-left: 16px;
     background-color: bisque;
     color: white;
-    border: none;
+    border: 50px;
     width: 150px;
     font-size: 16px;
-    border-radius: 50px;
+    border-radius: 100px;
     padding: 14px 24px;
 }
 .poem {
